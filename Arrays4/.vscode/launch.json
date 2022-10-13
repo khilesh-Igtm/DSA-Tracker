@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch fofu",
+            "request": "launch",
+            "mainClass": "fofu",
+            "projectName": "Arrays4_af045513"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongSubWithoutRepeat",
+            "request": "launch",
+            "mainClass": "LongSubWithoutRepeat",
+            "projectName": "Arrays4_af045513"
+        },
+        {
+            "type": "java",
+            "name": "Launch repeat",
+            "request": "launch",
+            "mainClass": "repeat",
+            "projectName": "Arrays4_af045513"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch FourSum",
+            "request": "launch",
+            "mainClass": "FourSum",
+            "projectName": "Arrays4_af045513"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestConsecutivepublic",
+            "request": "launch",
+            "mainClass": "LongestConsecutivepublic",
+            "projectName": "Arrays4_af045513"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestSubarraysum0",
+            "request": "launch",
+            "mainClass": "LongestSubarraysum0",
+            "projectName": "Arrays4_af045513"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubarrayXORk",
+            "request": "launch",
+            "mainClass": "SubarrayXORk",
+            "projectName": "Arrays4_af045513"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "Arrays4_af045513"
+        }
+    ]
+}
